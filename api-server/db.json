@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "my 1 stream",
+      "description": "this is a test ",
+      "id": 1
+    },
+    {
+      "title": "My second stream",
+      "description": "this is about climbing",
+      "id": 2
+    },
+    {
+      "title": "My Stream",
+      "description": "This is My Stream",
+      "id": 4
+    },
+    {
+      "title": "edited",
+      "description": "edited",
+      "id": 6
+    },
+    {
+      "title": "edit",
+      "description": "edit",
+      "id": 7
+    },
+    {
+      "title": "drgfrfrf00000000",
+      "description": "wewerr0000000000000",
+      "userId": "103222011684840745522",
+      "id": 8
+    }
+  ]
+}
